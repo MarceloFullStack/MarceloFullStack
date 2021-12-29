@@ -1,5 +1,5 @@
 
-# Olá, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> meu nome é Marcelo sou programador com foco em FrontEnd e prefiro trabalhar com React, Nextjs, React native, 
+# Olá, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> meu nome é Marcelo sou programador com foco em FrontEnd e prefiro trabalhar com React, Nextjs, React native
 ### já trabalhei em tempo integral como fullstack utilizando Laravel, Postgres, Vuejs.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300BBCD&lines=Entre+em+contato+!!!)](https://git.io/typing-svg)
