@@ -19,7 +19,7 @@
 </a>
 </div>
 
-### Técnologias que uso no dia a dia (Trabalho atual)
+### Tecnologias que uso no dia a dia (Trabalho atual)
 
 <div style="display: flex">
 
@@ -49,7 +49,7 @@
 </div>
 <br>
 
-### Técnologias que já trabalhei (Antigos empregos)
+### Tecnologias que já trabalhei (Antigos empregos)
 <div style="display: flex">
 
 <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
