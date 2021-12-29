@@ -66,7 +66,7 @@
 
 <!-- ![snake gif](https://github.com/MarceloFullStack/MarceloFullStack/blob/output/github-contribution-grid-snake.svg?sanitize=true&fill=red) -->
 
-<img class="mark" style="width: 100vw; background: azure" background="azure" src="https://github.com/MarceloFullStack/MarceloFullStack/blob/output/github-contribution-grid-snake.svg?sanitize=false"/>
+<img class="mark" style="width: 100vw; background: azure" background="azure" src="https://raw.githubusercontent.com/MarceloFullStack/MarceloFullStack/main/darkSnake.svg"/>
 
 
 
