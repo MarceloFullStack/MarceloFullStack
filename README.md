@@ -1,5 +1,5 @@
 
-# Olá, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> meu nome é Marcelo sou programador com foco em FrontEnd e prefiro trabalhar com React, Nextjs, React native
+# Olá, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> meu nome é Marcelo, sou programador com foco em FrontEnd e prefiro trabalhar com React, Nextjs, React native
 ### já trabalhei em tempo integral como fullstack utilizando Laravel, Postgres, Vuejs.
 ![](https://komarev.com/ghpvc/?username=MarceloFullStack)
 
