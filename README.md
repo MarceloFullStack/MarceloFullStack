@@ -1,4 +1,5 @@
-### Marcelo sou programador com foco em React, Nextjs
+### Olá, meu nome é Marcelo sou programador com foco em FrontEnd e prefiro trabalhar com React, Nextjs, React native,
+já trabalhei em tempo integral como fullstack utilizando Laravel, Postgres, Vuejs.
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5575991674108&text=Recrutador)
 
 
