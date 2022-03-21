@@ -80,7 +80,7 @@
 🔖 Me segue no Github: https://github.com/MarceloFullStack 👨🏻‍💻 <br>
 🔖 Entre em contato via whatsapp  75991674108 📱 <br>
 🔖 Conecta lá no meu Linkedin: https://www.linkedin.com/in/marcelodeveloper/ 🦄 <br>
-🔖 Fazendo uma doação via PIX a chave é: fotofacil@hotmail.com ✔️ <br>
+🔖 Fazendo uma doação via PIX a chave é: fotofacil20@gmail.com ✔️ <br>
 
 ♻️ Segue meu Github , deixa seu star no repositório, compartilha com seus amigos, e por fim, bons estudos ou bom trabalho, faça bom uso!! ♻️ <br>
 
