@@ -188,8 +188,7 @@
 🔖 [Kaggle](https://www.kaggle.com/learn) - Site com diversos cursos gratuitos de Python & DataScience (EN) <br>
 
 ## 📚 Tutoriais e cursos frameworks
-
-🔖 [Laravel Tio Jobs](https://www.youtube.com/c/TioJobs) - Tutoriais e dicas monstras sobre Laravel, o melhor canal !!!! <br>
+🔖 [<span style="color:yellow">Laravel Tio Jobs</span>](https://www.youtube.com/c/TioJobs) - Tutoriais e dicas monstras sobre Laravel, o melhor canal !!!! <br>
 
 ## 📚 Pacotes e bibliotecas desenvolvimento
 ### laravel
