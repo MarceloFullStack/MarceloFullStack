@@ -87,6 +87,7 @@
 ## 📚 ÍNDICE
 
 [📚 Sites para estudar programação](#-sites-para-estudar-programação) <br>
+[📚 Tutoriais e cursos Frameworks](#-tutoriais-e-cursos-frameworks) <br>
 [📚 Sites para desenvolvedor front-end](#-sites-para-desenvolvedor-front-end) <br>
 [📚 Sites para aprender a programar jogando](#-sites-para-aprender-a-programar-jogando) <br>
 [📚 Templates HTML gratuitos](#-templates-html-gratuitos) <br>
@@ -184,6 +185,10 @@
 🔖 [FGV](https://educacao-executiva.fgv.br/busca?keys=&curso_tipo%5B%5D=517&modalidade%5B%5D=45&area-conhec%5B%5D=571&tipo_invest%5B1%5D=1&estados=26&cidades=251&unidade=All&sort_by=field_oferta_data_inicio_turma_value&items_per_page=10&mail_address_me=) - Site com diversos cursos gratuitos na área da tecnologia <br>
 🔖 [CodeAcademy](https://www.codecademy.com/) - Site com diversos cursos gratuitos de programação (EN) <br>
 🔖 [Kaggle](https://www.kaggle.com/learn) - Site com diversos cursos gratuitos de Python & DataScience (EN) <br>
+
+## 📚 Tutoriais e cursos frameworks
+
+🔖 [Laravel Tio Jobs](https://www.youtube.com/c/TioJobs) - Tutoriais e dicas monstras sobre Laravel, o melhor canal !!!! <br>
 
 ## 📚 Sites para desenvolvedor front-end
 
