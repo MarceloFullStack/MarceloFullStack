@@ -88,6 +88,7 @@
 
 [📚 Sites para estudar programação](#-sites-para-estudar-programação) <br>
 [📚 Tutoriais e cursos Frameworks](#-tutoriais-e-cursos-frameworks) <br>
+[📚 Pacotes e bibliotecas Desenvolvimento](#-pacotes-e-bibliotecas-desenvolvimento) <br>
 [📚 Sites para desenvolvedor front-end](#-sites-para-desenvolvedor-front-end) <br>
 [📚 Sites para aprender a programar jogando](#-sites-para-aprender-a-programar-jogando) <br>
 [📚 Templates HTML gratuitos](#-templates-html-gratuitos) <br>
@@ -189,6 +190,10 @@
 ## 📚 Tutoriais e cursos frameworks
 
 🔖 [Laravel Tio Jobs](https://www.youtube.com/c/TioJobs) - Tutoriais e dicas monstras sobre Laravel, o melhor canal !!!! <br>
+
+## 📚 Pacotes e bibliotecas desenvolvimento
+### laravel
+- 🔖 [livewire-powergrid](https://github.com/Power-Components/livewire-powergrid) - PowerGrid cria Datatables modernas, poderosas e fáceis de personalizar com base na biblioteca Laravel Livewire<br>
 
 ## 📚 Sites para desenvolvedor front-end
 
