@@ -73,7 +73,7 @@
 
 ⚠️ AVISO IMPORTANTE ⚠️
 
-**algumas pessoas relataram que estao com dificuldade de conseguir emprego na área, espero que isso possa te ajudar !!!!**
+**algumas pessoas relataram que estão com dificuldade de conseguir emprego na área, espero que isso possa te ajudar !!!!**
 
 ## ESTÁ SEM EMPREGO ??? PRA ONDE MANDAR SEU CURRICULO !!!!!!!
 
