@@ -3,6 +3,8 @@
 ### já trabalhei em tempo integral como fullstack utilizando Laravel, Postgres, Vuejs.
 ![](https://komarev.com/ghpvc/?username=MarceloFullStack)
 
+[![wakatime](https://wakatime.com/badge/user/5ba4f38e-d1c5-4872-9196-3b7a657a801a.svg)](https://wakatime.com/@5ba4f38e-d1c5-4872-9196-3b7a657a801a)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300BBCD&lines=Entre+em+contato+!!!)](https://git.io/typing-svg)
 
