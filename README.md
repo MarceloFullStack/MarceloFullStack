@@ -71,6 +71,16 @@
 
 <img class="mark" style="width: 100vw; background: azure" background="azure" src="https://github.com/MarceloFullStack/MarceloFullStack/blob/main/darkSnake.svg"/>
 
+⚠️ AVISO IMPORTANTE ⚠️
+
+**algumas pessoas relataram que estao com dificuldade de conseguir emprego na área, espero que isso possa te ajudar !!!!**
+
+## ESTÁ SEM EMPREGO ??? PRA ONDE MANDAR SEU CURRICULO !!!!!!!
+
+-FRONTEND: https://github.com/frontendbr/vagas/issues
+
+-BACKEND: https://github.com/backend-br/vagas/issues
+
 ## 📚 GUIA DE CURSOS E RECURSOS PARA PROGRAMAÇÃO
 
 ⚠️ AVISO IMPORTANTE ⚠️
