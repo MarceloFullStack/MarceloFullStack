@@ -1,6 +1,6 @@
 
 # Olá, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> meu nome é Marcelo, sou programador
-### já trabalho em tempo integral como fullstack utilizando Laravel, Postgres, ReactJs, Docker.
+### Hoje trabalho CLT em tempo integral como fullstack utilizando Laravel, Postgres, ReactJs, Docker.
 ![](https://komarev.com/ghpvc/?username=MarceloFullStack)
 
 [![wakatime](https://wakatime.com/badge/user/5ba4f38e-d1c5-4872-9196-3b7a657a801a.svg)](https://wakatime.com/@5ba4f38e-d1c5-4872-9196-3b7a657a801a)
